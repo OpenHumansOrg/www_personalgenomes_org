@@ -50,7 +50,7 @@ def index(request):
     if country_code == 'CA':
         return render(request, 'canada/index.html')
     elif country_code == 'GB':
-        return render(request, 'uk/index.html')
+        return redirect('https://www.personalgenomes.org.uk')
     elif country_code == 'US':
         return render(request, 'harvard/index.html')
     elif country_code == 'AT':
