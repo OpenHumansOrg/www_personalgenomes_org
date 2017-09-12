@@ -1,6 +1,1 @@
-.elasticbeanstalk/
-*.pyc
-*~
-db.sqlite3
-\#*\#
-.\#*
+_site/*
