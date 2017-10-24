@@ -18,9 +18,11 @@ ul li ul li {
 .nav li, li:last-child {
   margin-bottom: 0px;
 }
-.anchor-offset {
-  padding-top: 50px;
-  margin-top: -50px;
+a.anchor-offset {
+  display: block;
+  position: relative;
+  top: -50px;
+  visibility: hidden;
 }
 
 img.profile-photo {
