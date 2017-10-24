@@ -1,0 +1,5 @@
+# Redirect users in uk
+/* https://personalgenomes.org.uk/:splat     302  Country=GB
+/* https://pgp.med.harvard.edu/:splat     302  Country=US
+/* https://personalgenomes.ca/:splat     302  Country=CA
+#/* https://personalgenomes.org.uk/:splat     302  Country=AT
