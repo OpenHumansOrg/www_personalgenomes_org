@@ -1,6 +1,7 @@
 # Redirect to country-specific versions
+/uk/* https://personalgenomes.org.uk/uk/:splat 302 Country=GB
 /* /gb     302  Country=GB
 /* /us     302  Country=US
 /* /ca     302  Country=CA
 /* /at     302  Country=AT
-# /*  / 302
+/*  / 302
