@@ -6,5 +6,5 @@
 / /at     302  Country=AT
 / /cn     302  Country=CN
 # Redirect old links for the US privacy policy and TOS
-/privacypolicy.html https://my.pgp-hms.org/pages/privacy_policy 302
-/tos.html https://my.pgp-hms.org/pages/terms_of_service 302
+/privacypolicy.html https://my.pgp-hms.org/pages/privacy_policy 301
+/tos.html https://my.pgp-hms.org/pages/terms_of_service 301
